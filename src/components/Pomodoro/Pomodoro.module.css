@@ -1,0 +1,32 @@
+.pomodoro {
+  font-size: 4rem;
+
+  color: #38015c;
+}
+
+.message {
+  font-size: 0.5em;
+  min-height: 1.3em;
+  margin-bottom: 0.5em;
+}
+
+.timer {
+  font-size: 4rem;
+  margin-bottom: 40px;
+  color: #38015c;
+}
+
+section {
+  text-align: center;
+}
+
+.button button {
+  font: inherit;
+  background-color: #38015c;
+  border: 1px solid white;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
